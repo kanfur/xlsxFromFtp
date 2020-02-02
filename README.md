@@ -1,3 +1,14 @@
+    * url-1;  /api/v1/callback
+    * url-2;  /test
+* some unit tests
+* ftp connection
+* try&catch
+* database seeding
+* queue / Job
+* nested tree model For Categories
+* DB model
+* YmdHis tarih formatında en son yüklenen dosya çekilmekte
+
 90Pixel PHP Developer Challenge
 ===============================
 
