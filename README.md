@@ -57,5 +57,3 @@ Bonus
 
 -   Database seeding, Model Factory yazmak
 -   Kod standartlaştırma araçlarının kullanımı
-
-Tamamladıktan sonra public bir git reposu oluşturup linkini buradayim@90pixel.com adresine gönderebilirsiniz.
